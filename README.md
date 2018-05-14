@@ -3,8 +3,8 @@ Image Donwload Manager with caching.
 
 Implemented UICollectionView with both vertical and horizontal options.
 
-TableView like effect for Vertical View
-One card at a time for Horizontal View (left right swipe to scroll between images)
+TableView like effect for Vertical View.
+One card at a time for Horizontal View (left right swipe to scroll between images).
 
 Implemented Image Download Manager
 1. Checks if the image is in the cache.
